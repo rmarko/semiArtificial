@@ -1,0 +1,2 @@
+# semiArtificial
+R package semiArtificial
